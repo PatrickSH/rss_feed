@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Tajawal', sans-serif;
+}
+
+
+#app{
+    margin: 0 auto;
+    width:1024px;
+    margin-top: 200px;
+}
+
+.post{
+    background-color: #ebebeb;
+    width:80%;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.post .content{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.post .content .tags{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    flex-direction: row;
+}
+
+.post .content .tags .tag{
+    height: 30px;
+    background-color: #D5E8E8;
+    padding: 8px;
+    line-height: 30px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.post h2{margin-bottom: 15px;}

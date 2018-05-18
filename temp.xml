@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~files/feed-premium.xsl"?>
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:feedpress="https://feed.press/xmlns" version="2.0">
+    <channel>
+        <feedpress:locale>en</feedpress:locale>
+        <atom:link rel="self" href="http://feeds.dzone.com/webdev"/>
+        <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
+        <title>DZone Web Dev Zone</title>
+        <link>https://dzone.com/web-development-programming-tutorials-tools-news</link>
+        <description>Recent posts in Web Dev on DZone.com</description>
+        <item>
+            <title>Permissions on the Web Suck</title>
+            <link>https://dzone.com/articles/permissions-on-the-web-suck?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="56"&gt;I am a fan of progressive web apps and the powers that they bestow on web developers to build the next generation of applications. We can write web applications that work offline, &lt;a href="https://philna.sh/blog/2017/07/04/experimenting-with-the-background-fetch-api/"&gt;download large files in the background&lt;/a&gt;, &lt;a href="https://www.twilio.com/blog/2016/02/web-powered-sms-inbox-with-service-worker-push-notifications.html"&gt;send push notifications&lt;/a&gt;, and much more. I was so excited about push notifications on the web that I wrote a whole talk about it in 2015 and was fortunate enough to give it in a bunch of places around the world.&lt;/p&gt;
+                &lt;p pid="3"&gt;But perhaps I was a little too prescient with that talk title, &amp;quot;The web is getting pushy.&amp;quot; Web applications themselves are getting pushy and now I see tweets like this:&lt;/p&gt;</description>
+            <category>web design and web development</category>
+            <category>web developement</category>
+            <category>user experience</category>
+            <category>notifications</category>
+            <category>push notification</category>
+            <category>push marketing</category>
+            <pubDate>Fri, 18 May 2018 12:02:10 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2215786</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9164881&amp;w=600"/>
+            <dc:creator>Phil Nash</dc:creator>
+        </item>
+        <item>
+            <title>Five Reasons To Use React Native</title>
+            <link>https://dzone.com/articles/five-reasons-to-use-react-native?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="2"&gt;Just like web applications, mobile platforms have experienced increased importance in software development as many people almost cannot survive without their mobile devices. From this, it is easy to deduce that mobile applications see more usage than even their web counterparts and therefore need some level of priority.&lt;/p&gt;
+                &lt;p pid="3"&gt;Mobile devices come with different operating systems, and it is necessary to have applications running on the available operating systems.&lt;/p&gt;</description>
+            <category>open source</category>
+            <category>javascript</category>
+            <category>web design and web development</category>
+            <category>react</category>
+            <category>native</category>
+            <category>cross platform</category>
+            <category>react native</category>
+            <pubDate>Fri, 18 May 2018 09:03:38 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2208769</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9101810&amp;w=600"/>
+            <dc:creator>Anton Shaleynikov</dc:creator>
+        </item>
+        <item>
+            <title>Yet Another Story About JavaScript [Comic]</title>
+            <link>https://dzone.com/articles/yet-another-about-javascript-comic?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description/>
+            <category>javascript</category>
+            <category>web dev</category>
+            <category>comic</category>
+            <category>javascript frameworks</category>
+            <pubDate>Fri, 18 May 2018 09:01:01 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2224014</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9164182&amp;w=600"/>
+            <dc:creator>Daniel Stori</dc:creator>
+        </item>
+        <item>
+            <title>PyCon 2018 Highlights</title>
+            <link>https://dzone.com/articles/pycon-2018-highlights?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="1"&gt;And yes, this is truncated because I left early, and missed some important things. I'm going to have to catch them on &lt;a href="https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos" target="_blank"&gt;YouTube&lt;/a&gt;&lt;a href="https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ/videos"&gt;.&lt;/a&gt;&lt;/p&gt;
+                &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=lpWvYxEW09k" target="_blank"&gt;Stacy Morse - Code Reviews Using Art Critique Principles - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=zQeYx87mfyw" target="_blank"&gt;Jake VanderPlas - Performance Python: Seven Strategies for Optimizing Your Numerical Code&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=fRUCAt9WFpc" target="_blank"&gt;Jiaqi Liu - Building a Data Pipeline with Testing in Mind - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=FjojZxDZscQ" target="_blank"&gt;Brian Okken, Paul Everitt - Visual Testing with PyCharm and pytest - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=0ROZRNZkPS8" target="_blank"&gt;Carol Willing - Practical Sphinx - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=xEE4X-9RROM" target="_blank"&gt;Dmitry Filippov, Ewa Jodlowska - By the Numbers: Python Community Trends in 2017/2018 - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=zJ9z6Ge-vXs" target="_blank"&gt;David Beazley - Reinventing the Parser Generator - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=3m555yWTaNI" target="_blank"&gt;Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=yrRqNzJTBjk" target="_blank"&gt;Matt Davis - Python Performance Investigation by Example - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ZsGFU2qh73E" target="_blank"&gt;Barry Warsaw - Get your resources faster, with importlib.resources - PyCon 2018&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;p pid="3"&gt;Of course, you'll also need to see the &lt;strong&gt;keynotes&lt;/strong&gt;.&lt;/p&gt;</description>
+            <category>python</category>
+            <category>web dev</category>
+            <category>conferences</category>
+            <category>presentations</category>
+            <category>keynotes</category>
+            <category>pycon 2018</category>
+            <pubDate>Fri, 18 May 2018 05:02:38 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2215667</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9164817&amp;w=600"/>
+            <dc:creator>Steven Lott</dc:creator>
+        </item>
+        <item>
+            <title>Input [type=''text''] Busted</title>
+            <link>https://dzone.com/articles/input-typequottextquot-busted?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;div&gt;
+                &lt;p&gt;Inputs are sooo important in the user experience design and it's crucial that their style is perfectly transferred from the design to the page. It's no secret that for a presentation on a web page, you need CSS, but the tricky part is how to make it as good as possible.&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Inputs have more variations, states, and other issues than any other element in HTML,&lt;/strong&gt; so let's cover everything one should know about the post input type text. Let's bust the input!&lt;/p&gt;</description>
+            <category>tutorial</category>
+            <category>web dev</category>
+            <category>ux</category>
+            <category>forms</category>
+            <category>web app development</category>
+            <category>inputs</category>
+            <pubDate>Thu, 17 May 2018 18:01:39 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2211095</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9153864&amp;w=600"/>
+            <dc:creator>Tijana Dedic</dc:creator>
+        </item>
+        <item>
+            <title>5 Uncommon C# Statements/Keywords</title>
+            <link>https://dzone.com/articles/5-uncommon-c-statementskeywords?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p class="abstract" pid="43"&gt;After digging around in C#, I found some interesting discoveries. In today's post, I go over these uncommon C# statements/keywords with some examples.&lt;/p&gt;
+                &lt;p pid="3"&gt;With &lt;a href="https://github.com/dotnet/roslyn/blob/master/docs/Language%20Feature%20Status.md" target="_blank" title="Go to C# 8.0 Language Feature Status on github.com"&gt;C# 8.0 coming soon&lt;/a&gt;, I decided to dig into C# and look at some interesting statements and/or keywords developers have forgotten about or don't use anymore.&lt;/p&gt;</description>
+            <category>tutorial</category>
+            <category>web dev</category>
+            <category>c#</category>
+            <category>goto</category>
+            <category>when</category>
+            <category>extern alias</category>
+            <pubDate>Thu, 17 May 2018 13:01:01 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2216795</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9152376&amp;w=600"/>
+            <dc:creator>Jonathan Danylko</dc:creator>
+        </item>
+        <item>
+            <title>Major Failures: Three in a Row</title>
+            <link>https://dzone.com/articles/major-failures-three-in-a-row?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="2"&gt;Recently, I encountered some really bad experiences as a consumer placing an order for a pizza, ordering some items for pick-up from a very popular hardware store, and placing an online order for a gift to be delivered in Florida. In each case, I experienced some level of failure - which are all related to the technical side of the experience. So, I thought I would give some background and provide my findings.&lt;/p&gt;
+                &lt;h2 pid="7"&gt;It's Pizza Night&lt;/h2&gt;
+                &lt;p pid="61"&gt;&lt;img alt="Image title" class="fr-fir fr-dii" src="https://i.imgur.com/2tuqtR2.jpg" width="300" /&gt;&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>failure</category>
+            <category>customer service problem</category>
+            <category>online ordering system</category>
+            <pubDate>Thu, 17 May 2018 09:03:35 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2217599</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9148135&amp;w=600"/>
+            <dc:creator>John Vester</dc:creator>
+        </item>
+        <item>
+            <title>How to Deploy a Django Application with Docker</title>
+            <link>https://dzone.com/articles/how-to-deploy-a-django-application-with-docker?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="39"&gt;&lt;em&gt;Written by Esther Vaati,&amp;nbsp;&lt;a href="https://www.alibabacloud.com/campaign/techshare" rel="nofollow" target="_blank"&gt;Alibaba Cloud Tech Share&lt;/a&gt;&amp;nbsp;author.&amp;nbsp;&lt;a href="https://www.alibabacloud.com/campaign/techshare" rel="nofollow" target="_blank"&gt;Tech Share&lt;/a&gt;&amp;nbsp;is Alibaba Cloud’s incentive program to encourage the sharing of technical knowledge and best practices within the cloud community.&lt;/em&gt;&lt;/p&gt;
+                &lt;p data-spm-anchor-id="a2c65.11021464.a2c1b31.i1.56f470ecfmjXxy" pid="3"&gt;In this tutorial, we are going to learn about Docker and how to apply it to website development. We will be deploying a Django application with Docker on an Alibaba Cloud ECS instance.&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>docker</category>
+            <category>django</category>
+            <category>alibaba cloud</category>
+            <pubDate>Thu, 17 May 2018 05:02:12 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2215826</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9141181&amp;w=600"/>
+            <dc:creator>Esther Vaati</dc:creator>
+        </item>
+        <item>
+            <title>No-Code Software Development</title>
+            <link>https://dzone.com/articles/no-code-software-development?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="1"&gt;Every single software bug in the history of computing was created by a software developer, writing a piece of code, that for some reasons didn't work the way it was supposed to. So I figured &lt;em&gt;&amp;quot;Let's eliminate the root cause of the problem: writing code.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+                &lt;p pid="4"&gt;Some years ago, an acquaintance of mine told me he had just finished a project. His customer wanted to have a web app, wrapping a single table from his database, such that he could perform all CRUD operations on his database — and do some basic sorting and filtering in the process. My acquaintance bragged about how he had only spent 12 hours creating this system, yet still invoiced his customer a fixed price of $20,000. The customer had happily paid, and even mentioned something about how cheap this price was, and how grateful he was. Ignoring the ethical aspect of this story, &lt;strong&gt;having a developer invoicing $1667 per hour&lt;/strong&gt; — this problem is actually quite interesting. I can easily imagine thousands of different use cases, which arguably are an exact match of this specification, only with slightly different columns, and slightly different features. And in fact, I bet most of you have heard similar stories,&amp;nbsp;too, and seen dozens of similar use cases yourselves.&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>development</category>
+            <category>web</category>
+            <category>web design and web development</category>
+            <category>crud</category>
+            <category>no code development</category>
+            <category>phosphorus five</category>
+            <pubDate>Wed, 16 May 2018 12:01:52 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2210775</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9139943&amp;w=600"/>
+            <dc:creator>Thomas Hansen</dc:creator>
+        </item>
+        <item>
+            <title>Six Thinking Hats on Angular vs. React</title>
+            <link>https://dzone.com/articles/six-thinking-hats-on-angular-vs-react?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="1"&gt;The idea of this article is to compare and contrast Angular and React so that we can choose what suits our needs.&lt;/p&gt;
+                &lt;p pid="2"&gt;There is so much information on the internet that we will eventually run into analysis paralysis when trying to make a decision between the two for your next web application. So, I thought of applying the “Six Thinking Hats” methodology to organize my thoughts and classify the information and data points.&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>angular</category>
+            <category>react</category>
+            <category>web app development</category>
+            <pubDate>Wed, 16 May 2018 09:02:14 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2215736</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9138203&amp;w=600"/>
+            <dc:creator>Saravanan Subramanian</dc:creator>
+        </item>
+        <item>
+            <title>Deploying a Blazor Application on IIS</title>
+            <link>https://dzone.com/articles/deploying-a-blazor-application-on-iis?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="2"&gt;In this article, we will understand how to deploy an ASP.NET Core hosted Blazor application with the help of IIS 10 on a Windows 10 machine. We will be using Visual Studio 2017 to publish the app and SQL Server 204 to handle DB operations. We will also troubleshoot some of the common hosting issues for a Blazor application.&lt;/p&gt;
+                &lt;h2&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/h2&gt;
+                &lt;p pid="4"&gt;Please refer to my previous article &lt;a href="http://ankitsharmablogs.com/cascading-dropdownlist-in-blazor-using-ef-core/" target="_blank"&gt;Cascading DropDownList in Blazor Using EF Core&lt;/a&gt; to create the application that we will be deploying in this tutorial.&lt;/p&gt;</description>
+            <category>tutorial</category>
+            <category>web dev</category>
+            <category>asp.net</category>
+            <category>iis</category>
+            <category>blazor4</category>
+            <pubDate>Wed, 16 May 2018 05:02:04 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2212402</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9128307&amp;w=600"/>
+            <dc:creator>Ankit Sharma</dc:creator>
+        </item>
+        <item>
+            <title>jwt-cli: A Shell Library to Decode JWTs [Snippet]</title>
+            <link>https://dzone.com/articles/jwt-cli-a-shell-library-to-decode-json-web-tokens?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;div&gt;
+                &lt;p&gt;When I started needing to decode JSON Web Tokens quite often, I felt the urge to write&amp;nbsp;a program that allowed me to do it &lt;em&gt;quickly&lt;/em&gt;. There are excellent options, such as &lt;a href="http://jwt.io/" target="_blank"&gt;jwt.io&lt;/a&gt;, but as soon as you need to do this operation often enough, it becomes clumsy. And if you need to process multiple tokens, or further process the output, something else becomes a necessity.&lt;/p&gt;
+                &lt;p&gt;That's why I wrote &lt;a href="https://github.com/emcrisostomo/jwt-cli" target="_blank"&gt;a little shell script&lt;/a&gt; that allows you to do just that. jwt-decode will accept a list of tokens as arguments and will decode them on a standard output. The syntax is the following:&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>jwt</category>
+            <category>shell script</category>
+            <category>decoding</category>
+            <category>json web tokens</category>
+            <pubDate>Tue, 15 May 2018 19:01:01 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2172484</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9126719&amp;w=600"/>
+            <dc:creator>Enrico Maria Crisostomo</dc:creator>
+        </item>
+        <item>
+            <title>PyCon 2018: Conference Day 1 (May 11)</title>
+            <link>https://dzone.com/articles/pycon-2018-conference-day-1-may-11?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;div&gt;
+                &lt;p&gt;PyCon 2018 in Cleveland, Ohio, kicked off their first conference day with an introduction from one of Cleveland's natives, Ernest W. Durbin III. Then, we moved onto the keynote of the morning, which was given by Dan Callahan from Mozilla. He talked about tooling and how Python currently doesn't have a big presence on the web. It was actually quite interesting and also a bit disappointing as there wasn't really a true solution given. However, his talk was quite good and insightful.&lt;/p&gt;
+                &lt;p&gt;My first conference talk was &lt;a href="https://us.pycon.org/2018/schedule/presentation/71/" target="_blank"&gt;Augmenting Human Decision Making with Data Science&lt;/a&gt; by Kelsey Pedersen. Kelsey is a good speaker, but the topic didn't really pull me in. There was no code examples whatsoever and was just kind of a presentation on how the company that Kelsey works for uses data science. You can watch it here, if you like:&lt;/p&gt;</description>
+            <category>python</category>
+            <category>web dev</category>
+            <category>data science</category>
+            <category>pycon 2018</category>
+            <pubDate>Tue, 15 May 2018 16:01:13 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2212330</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9126706&amp;w=600"/>
+            <dc:creator>Mike Driscoll</dc:creator>
+        </item>
+        <item>
+            <title>A Word About Node.js Event Loop</title>
+            <link>https://dzone.com/articles/a-word-about-nodejs-event-loop?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="1"&gt;Up until recently, I was pretty sure how Node's Event Loop worked; in fact, I was sure I knew how asynchronous calls were handled.&lt;/p&gt;
+                &lt;p pid="2"&gt;Recently, thanks to a very interesting talk about this subject by Daniel Khan in &lt;a href="https://www.youtube.com/watch?v=gl9qHml-mKc" target="_blank"&gt;last year's NodeConf&lt;/a&gt;, my eyes were opened to the truth. He has a very good explanation in that video, but I decided to go deep into Node's official documentation about it, and out of that&amp;nbsp;came my own explanation of how this beast known as Event Loop works.&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>node.js</category>
+            <category>event loop</category>
+            <category>asynchronous calls</category>
+            <category>event loop phases</category>
+            <pubDate>Tue, 15 May 2018 09:02:30 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2206054</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9128275&amp;w=600"/>
+            <dc:creator>Fernando Doglio</dc:creator>
+        </item>
+        <item>
+            <title>Inferred Tuple Names in C# 7.1</title>
+            <link>https://dzone.com/articles/inferred-tuple-names-in-c-71?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="11"&gt;Although C# 7.1 doesn't have many new features, there are still some convenience hacks I like. One of these is inferred tuple names, meaning that we can name tuple members using variable names. It’s not a big change in the language, but it still makes code a little bit cleaner where tuples are used.&lt;/p&gt;
+                &lt;h2 pid="12"&gt;New Features in C# 7.1&lt;/h2&gt;
+                &lt;ol&gt;
+                &lt;li&gt;&lt;a href="http://gunnarpeipman.com/2018/01/switch-csharp-version/" target="_blank" title="Switching C# version in Visual Studio"&gt;Switching C# version in Visual Studio&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://gunnarpeipman.com/2017/12/async-main/" target="_blank" title="Deep dive to async Main"&gt;Deep dive to async Main&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;Inferred tuple names in C# 7.1&lt;/li&gt;
+                &lt;/ol&gt;
+                &lt;p pid="6"&gt;In C# 7.0 we had to specify the names of value tuple members like this:&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>programming</category>
+            <category>c#</category>
+            <category>tuples</category>
+            <pubDate>Tue, 15 May 2018 05:01:42 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2189500</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9126519&amp;w=600"/>
+            <dc:creator>Gunnar Peipman</dc:creator>
+        </item>
+        <item>
+            <title>Processing Large Files Using PHP</title>
+            <link>https://dzone.com/articles/processing-large-files-using-php?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="2"&gt;If you want to process large files using PHP, you may use some of the ordinary PHP functions like&amp;nbsp;&lt;code&gt;file_get_contents()&lt;/code&gt;&amp;nbsp;or&amp;nbsp;&lt;code&gt;file()&lt;/code&gt;&amp;nbsp;which have a limitation when working with very large files.&lt;/p&gt;
+                &lt;h2&gt;Memory Limitation&lt;/h2&gt;
+                &lt;p pid="4"&gt;These functions rely on the memory_limit setting in the&amp;nbsp;php.ini file; you may increase the value but these functions still are not suitable for very large files because these functions will put the entire file contents into memory at one point.&lt;/p&gt;</description>
+            <category>php</category>
+            <category>tutorial</category>
+            <category>web dev</category>
+            <category>memory</category>
+            <category>processing</category>
+            <pubDate>Mon, 14 May 2018 09:01:01 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2210595</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9105350&amp;w=600"/>
+            <dc:creator>Seco Max</dc:creator>
+        </item>
+        <item>
+            <title>Package Manager Rumble</title>
+            <link>https://dzone.com/articles/package-manager-rumble?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="1"&gt;Along with the discussion of &lt;a href="https://www.telerik.com/blogs/how-to-javascript-in-2018" target="_blank"&gt;how to use JavaScript&lt;/a&gt; comes the discussion of package managers. Modules help us utilize tooling we and other developers make because WHY would you spend time re-writing something that already exists and works well?? If that question has not popped into your head or been repeated in a team meeting at least once in 2017, you might be doing it wrong. Just sayin'.&lt;/p&gt;
+                &lt;p pid="2"&gt;Thankfully, we have teams creating better and better experiences for us to install and organize these modules. &lt;a href="https://github.com/npm/npm" target="_blank"&gt;npm&lt;/a&gt;, &lt;a href="https://github.com/yarnpkg/yarn" target="_blank"&gt;Yarn&lt;/a&gt; and &lt;a href="https://github.com/bower/bower" target="_blank"&gt;Bower&lt;/a&gt; are still the leaders of the pack...age management tools, but I also wanted to throw in &lt;a href="https://github.com/jspm" target="_blank"&gt;jspm&lt;/a&gt;. With close to two million installs this year, jspm is still going strong. Now, this isn't going to be a package manager brawl, despite the title of this post. I'll give you the info and you can decide what it means to you. I'm not going to lie though: I use npm and like their team and what they do a ton. So, if I come across as biased, it's probably because I am.&lt;/p&gt;</description>
+            <category>web dev</category>
+            <pubDate>Mon, 14 May 2018 05:01:58 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2210627</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9105729&amp;w=600"/>
+            <dc:creator>Tara Manicsic</dc:creator>
+        </item>
+        <item>
+            <title>Build a Video Chat Service with JavaScript, WebRTC, and Okta</title>
+            <link>https://dzone.com/articles/build-a-video-chat-service-with-javascript-webrtc?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="257"&gt;As recently as seven short years ago, building video applications on the web was a massive pain. Remember the days of using Flash and proprietary codecs (&lt;em&gt;which often required licensing&lt;/em&gt;)? Yuck. In the last few years, video chat technology has dramatically improved and Flash is no longer required.&lt;/p&gt;
+                &lt;p pid="260"&gt;Today, the video chat landscape is much simpler thanks to&amp;nbsp;&lt;a href="https://webrtc.org/"&gt;WebRTC&lt;/a&gt;: an open source project built and maintained by Google, Mozilla, Opera, and others. WebRTC allows you to easily build real-time communication software in your browser and is being standardized at the W3C and IETF levels. Using WebRTC, you can build real-time video chat applications in the browser that actually work&amp;nbsp;&lt;em&gt;well&lt;/em&gt;! It’s pretty amazing.&lt;/p&gt;</description>
+            <category>javascript</category>
+            <category>tutorial</category>
+            <category>web dev</category>
+            <category>video chat</category>
+            <category>webrtc</category>
+            <category>okta</category>
+            <pubDate>Sun, 13 May 2018 05:01:02 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2208836</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9102005&amp;w=600"/>
+            <dc:creator>Randall Degges</dc:creator>
+        </item>
+        <item>
+            <title>Showcase of React + Redux Web Application Development</title>
+            <link>https://dzone.com/articles/showcase-of-react-redux-web-application-developmen?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="2"&gt;In the last few years, React has continuously gained popularity for the development of web applications. At Keyhole, we have several blogs talking about React and related technologies, including &lt;a href="https://keyholesoftware.com/2017/06/29/my-reaction-to-react/" target="_blank"&gt;React&lt;/a&gt;, &lt;a href="https://keyholesoftware.com/2017/10/23/the-joy-of-forms-with-react-and-formik/" target="_blank"&gt;Formik&lt;/a&gt;, &lt;a href="https://keyholesoftware.com/2018/01/11/one-router-to-rule-them-all-react-router/" target="_blank"&gt;react-router&lt;/a&gt;, and many others.&lt;/p&gt;
+                &lt;p pid="3"&gt;So why would we need Redux? Quite often when we develop applications, we start with small pieces. As the business requirements change, new features/modules/components are added/removed/updated. Particularly in enterprise applications, you may end up with a deep hierarchy of parent-child relationships.&lt;/p&gt;</description>
+            <category>javascript</category>
+            <category>tutorial</category>
+            <category>web dev</category>
+            <category>node.js</category>
+            <category>react</category>
+            <category>redux</category>
+            <category>single-page application</category>
+            <pubDate>Sat, 12 May 2018 09:01:01 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2210534</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9105207&amp;w=600"/>
+            <dc:creator>Jian Li</dc:creator>
+        </item>
+        <item>
+            <title>Websites as Unintended Silos: Getting Data In and Out of the Web Client</title>
+            <link>https://dzone.com/articles/websites-as-unintended-silos-getting-data-in-and-o?utm_medium=feed&amp;utm_source=feedpress.me&amp;utm_campaign=Feed%3A+dzone%2Fwebdev</link>
+            <description>&lt;p pid="2"&gt;The web as an open and interoperable platform has changed the world. It allows us to view, interact, and interchange information with an open set of technologies, like APIs; notably the Link, HTTP, and HTML. With these simple tools, we can create complex applications and services that are interoperable between server-to-server and from the server to a user using a browser.&lt;/p&gt;
+                &lt;p pid="3"&gt;Once the site is loaded into the user's browser, the data that is generated by the user and stored in the browser is all but locked away unless it is pushed back out to a server, and I think this is a hidden problem for the web.&lt;/p&gt;</description>
+            <category>web dev</category>
+            <category>web application development</category>
+            <category>client-side interface</category>
+            <category>web application data</category>
+            <pubDate>Sat, 12 May 2018 05:01:04 GMT</pubDate>
+            <guid isPermaLink="false">https://dzone.com/articles/2202084</guid>
+            <media:thumbnail url="https://dzone.com/thumbnail?fid=9041343&amp;w=600"/>
+            <dc:creator>Paul Kinlan</dc:creator>
+        </item>
+    </channel>
+</rss>
