@@ -7,4 +7,6 @@
             message: 'Hello Vue!'
         }
     });
+
+
 //});
