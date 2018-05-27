@@ -1,0 +1,94 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
+
+// Variables
+@import "variables";
+
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Tajawal', sans-serif;
+    background-color: $darkMain;
+}
+
+.loader{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url(/icons/loader.svg);
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#app{
+    margin: 0 auto;
+    width:1024px;
+    margin-top: 100px;
+
+    .get-started{
+        label{
+            color:$txtColor;
+            font-size: 18px;
+
+        }
+
+        .user-email{
+            outline: none;
+            height: 30px;
+            text-indent: 10px;
+            font-size: 15px;
+            width: 200px;
+            margin-top: 10px;
+            color:$txtColor;
+            border:1px solid $lightMain;
+            background-color: $lightMain;
+        }
+    }
+
+}
+
+.post{
+    cursor: pointer;
+    background-color: #ebebeb;
+    width:80%;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 5px -10px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px -10px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px -10px rgba(0,0,0,0.75);
+}
+
+.post .content{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.post .content .tags{
+    display: flex;
+    margin-top: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.post .content .tags .tag{
+    height: 30px;
+    background-color: #D5E8E8;
+    padding: 9px;
+    line-height: 30px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 15px;
+    width: auto;
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.post .content .tags .tag:first-child{margin-left: 0px;}
+
+.post h2{margin-bottom: 15px;}
+
+.feed-name{margin-bottom: 20px;}
